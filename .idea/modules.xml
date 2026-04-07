@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadraoBridge/PadraoBridge.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadraoBridge/PadraoBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadraoFactoryMethod/PadraoFactoryMethod.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadraoFactoryMethod/PadraoFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PadroesDeProjeto.iml" filepath="$PROJECT_DIR$/.idea/PadroesDeProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadrãoSingleton/PadrãoSingleton.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadrãoSingleton/PadrãoSingleton.iml" />
+    </modules>
+  </component>
+</project>
