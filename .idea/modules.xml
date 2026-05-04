@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/PadraoBridge/PadraoBridge.iml" filepath="$PROJECT_DIR$/PadraoBridge/PadraoBridge.iml" />
       <module fileurl="file://$PROJECT_DIR$/PadrãoSingleton/PadrãoSingleton.iml" filepath="$PROJECT_DIR$/PadrãoSingleton/PadrãoSingleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Trabalho financas.iml" filepath="$PROJECT_DIR$/.idea/Trabalho financas.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadraoBridge/PadraoBridge.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadraoBridge/PadraoBridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadraoFactoryMethod/PadraoFactoryMethod.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadraoFactoryMethod/PadraoFactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PadroesDeProjeto.iml" filepath="$PROJECT_DIR$/.idea/PadroesDeProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalho financas/PadrãoSingleton/PadrãoSingleton.iml" filepath="$PROJECT_DIR$/Trabalho financas/PadrãoSingleton/PadrãoSingleton.iml" />
+>>>>>>> 40a35f49829af2603cd7b43fa681b821aadcb23b
     </modules>
   </component>
 </project>
